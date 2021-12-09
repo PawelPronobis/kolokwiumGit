@@ -1,3 +1,4 @@
 dodano plik kol1txt
 Zmiana2
 Zmiana4
+Zmiana5
