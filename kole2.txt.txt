@@ -1,5 +1,9 @@
 Zmiana1
 Zmiana3
+<<<<<<< HEAD
 Zmiana6
 Zmiana9
 Zmiana10
+=======
+Zmiana6
+>>>>>>> parent of 6e026eb (Zmiana9)
