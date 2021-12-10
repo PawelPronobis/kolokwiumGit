@@ -4,4 +4,8 @@ Zmiana4
 Zmiana5
 Zmiana7
 Zmiana8
+<<<<<<< HEAD
 Zmiana13
+=======
+klonZmiana
+>>>>>>> 20af5a842aa0f008ed471182cd8a349b6529c94f
